@@ -1,0 +1,6 @@
+lang=".py"
+username = input("Enter username:")
+if lang in username:
+    print("The extension of the file is : python")
+else:
+   print("The extension of the file is : not available")
